@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Action Planner</string>
+    <string name="tv_main_welcome">Do you have something to do?</string>
+    <string name="example_escaping">Hey @you does this make sense</string>
+    <string name="example_formatted">Hey 1%$s, you have 2%d$ task due today</string>
+    <string name="tv_home_msg_add_task">Got something to do?</string>
+</resources>
